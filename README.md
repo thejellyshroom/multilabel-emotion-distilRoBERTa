@@ -2,7 +2,7 @@
 
 Voice assistant has been moved to thejellyshroom/aplaca-ai
 
-This is an experiment in fine tuning a small language model to work with NLP. It is trained on the Google emotions database, able to identify 17 different emotions in a string of text. It outputs an array with various confidence scores of the emotion it detects.
+This is an experiment in fine tuning a small language model to work with NLP. It is trained on the Go emotions database, able to identify 17 different emotions in a string of text. It outputs an array with various confidence scores of the emotion it detects.
 
 # (Legacy) AI Voice Assistant
 
